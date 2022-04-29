@@ -133,5 +133,7 @@ public class MathCalculator{
     public int getSquare(int a){
         a = a * a;
         return a;
+        
+        //Here's a comment for posterity's sake :)
     }
 }
